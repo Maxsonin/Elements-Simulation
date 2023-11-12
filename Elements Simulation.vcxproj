@@ -19,23 +19,25 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Main.cpp" />
-    <ClCompile Include="Sand.cpp" />
-    <ClCompile Include="Stone.cpp" />
-    <ClCompile Include="Water.cpp" />
-    <ClCompile Include="World.cpp" />
+    <ClCompile Include="Code\Lava.cpp" />
+    <ClCompile Include="Code\Main.cpp" />
+    <ClCompile Include="Code\Sand.cpp" />
+    <ClCompile Include="Code\Stone.cpp" />
+    <ClCompile Include="Code\Water.cpp" />
+    <ClCompile Include="Code\World.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Sand.h" />
-    <ClInclude Include="Stone.h" />
-    <ClInclude Include="Water.h" />
-    <ClInclude Include="World.h" />
+    <ClInclude Include="Headers\Lava.h" />
+    <ClInclude Include="Headers\Sand.h" />
+    <ClInclude Include="Headers\Stone.h" />
+    <ClInclude Include="Headers\Water.h" />
+    <ClInclude Include="Headers\World.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{bd2c9966-4707-4916-91f2-c0c6de485b1d}</ProjectGuid>
-    <RootNamespace>SandSimulation</RootNamespace>
+    <RootNamespace>Elements Simulation</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>Elements Simulation</ProjectName>
   </PropertyGroup>
