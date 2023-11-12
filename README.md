@@ -1,4 +1,4 @@
-# Sand Simulation
+# Elements Simulation
 This project is an attempt to recreate the Sand, Water, Lava and Rock simulation. I tried to make it very simple so that, for example, you can easily change the size of the window or blocks, etc.
 
 You can easily add new elements that you would like and replace the logic of the existing ones.
